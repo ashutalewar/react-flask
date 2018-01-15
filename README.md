@@ -10,7 +10,7 @@ For the backend:
 pip install -r requirements.txt
 ```
 
-For the frontend:
+For the frontend (for Nodejs > 4):
 
 ```
 npm install -g webpack
